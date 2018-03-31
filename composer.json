@@ -14,9 +14,9 @@
       "tmfw/base": "^0.6",
       "laracasts/flash": "^3.0",
       "ixudra/curl": "6.*",
-      "intervention/image": "2.4.1",
-      "intervention/imagecache": "2.3.3",
-      "spatie/laravel-permission": "^2.9"
+      "intervention/image": "2.4.*",
+      "intervention/imagecache": "2.3.*",
+      "spatie/laravel-permission": "2.7.*"
     },
     "autoload": {
         "psr-4": {
