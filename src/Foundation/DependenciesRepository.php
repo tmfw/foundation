@@ -15,6 +15,7 @@ class DependenciesRepository implements Repository
         /*'Zizaco\Entrust\EntrustServiceProvider',*/
         'Spatie\Permission\PermissionServiceProvider',
         'Ixudra\Curl\CurlServiceProvider',
+        'Riverskies\Laravel\MobileDetect\MobileDetectServiceProvider',
 //        'Barryvdh\TranslationManager\ManagerServiceProvider', //dependency required TMFW/plugin-localizer
     ];
 
