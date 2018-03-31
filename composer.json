@@ -16,7 +16,7 @@
       "ixudra/curl": "6.*",
       "intervention/image": "2.4.*",
       "intervention/imagecache": "2.3.*",
-      "spatie/laravel-permission": "2.7.*"
+      "spatie/laravel-permission": "1.6.*"
     },
     "autoload": {
         "psr-4": {
